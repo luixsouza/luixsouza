@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Sou estudante de Engenharia de Software no Instituto Federal de Goiás, paixonado por tecnologia e desenvolvimento de software. Ao longo da minha jornada acadêmica e profissional, tenho trabalhado com várias tecnologias e frameworks para construir projetos interessantes e resolver problemas reais. Confira meu repositório a baixo 👇🏼</p>
+<p align="left">Sou estudante de Engenharia de Software no Instituto Federal de Goiás, Apaixonado por tecnologia e desenvolvimento de software. Ao longo da minha jornada acadêmica e profissional, tenho trabalhado com várias tecnologias e frameworks para construir projetos interessantes e resolver problemas reais. Confira meu repositório a baixo 👇🏼</p>
 
 ###
 

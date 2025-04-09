@@ -55,7 +55,3 @@
 <p align="left">🚀 Confira meu repositório abaixo e acompanhe minha trajetória! 👇🏼</p>
 
 ###
-
-<h3 align="left">🔥   Minhas Estatísticas:</h3>
-
-###
